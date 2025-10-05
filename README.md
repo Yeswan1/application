@@ -1,2 +1,3 @@
-# updated developer application B
 
+updated developer application B
+an application is edited by dev a
